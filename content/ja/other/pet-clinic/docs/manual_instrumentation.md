@@ -27,6 +27,7 @@ nano pom.xml
     <dependency>
         <groupId>io.opentelemetry</groupId>
         <artifactId>opentelemetry-api</artifactId>
+        <version>1.32.0</version>
     </dependency>
 ```
 
